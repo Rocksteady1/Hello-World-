@@ -27,7 +27,8 @@
                         <color key="backgroundColor" systemColor="systemGray4Color"/>
                         <constraints>
                             <constraint firstItem="5Cn-U9-At1" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="2fe-7n-QC1"/>
-                            <constraint firstItem="5Cn-U9-At1" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="wd8-R4-PtF"/>
+                            <constraint firstItem="5Cn-U9-At1" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="100.5" id="VQd-NW-Aq1"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="5Cn-U9-At1" secondAttribute="trailing" constant="100.5" id="gsT-I1-uIS"/>
                         </constraints>
                     </view>
                 </viewController>
